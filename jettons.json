@@ -4259,3 +4259,10 @@
   "symbol": "tsTON"
  }
 ]
+{
+  "name": "DIAMOND",
+  "description": "What could this mean?",
+  "image": "https://i.imgur.com/5191UV6.png",
+  "symbol": "DMND",
+  "decimals": "9",
+}
